@@ -69,6 +69,8 @@ Contributions are welcome. To contribute, please follow these steps:
 4. Push the branch (`git push origin feature/new-feature`).
 5. Open a Pull Request.
 
+## Demo
 
+https://www.loom.com/share/f6d65694db0c4adcba9b1a188979910e?sid=38ddd2a1-fbfb-4ec4-bd5a-44fb24e77c8a
 
 ---
